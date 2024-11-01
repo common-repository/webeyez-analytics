@@ -1,0 +1,157 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Webeyez\n"
+"POT-Creation-Date: 2019-01-14 23:13+0300\n"
+"PO-Revision-Date: 2019-01-14 23:11+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: webeyez.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/settings_page.php:13
+msgid "Welcome to Webeyez Analytics"
+msgstr ""
+
+#: admin/settings_page.php:16
+msgid ""
+"Thanks for implementing Webeyez, you are one step away from monitoring your "
+"business and technical performance."
+msgstr ""
+
+#: admin/settings_page.php:17
+msgid ""
+"If you do not have an account with Webeyez yet then please register "
+"otherwise login to Webeyez."
+msgstr ""
+
+#: admin/settings_page.php:27
+msgid "New to Webeyes"
+msgstr ""
+
+#: admin/settings_page.php:28
+msgid "Register here"
+msgstr ""
+
+#: admin/settings_page.php:32
+msgid "First Name"
+msgstr ""
+
+#: admin/settings_page.php:36
+msgid "Last Name"
+msgstr ""
+
+#: admin/settings_page.php:40 admin/settings_page.php:71
+msgid "Email"
+msgstr ""
+
+#: admin/settings_page.php:44 admin/settings_page.php:75
+msgid "Password"
+msgstr ""
+
+#: admin/settings_page.php:49
+msgid "Submit"
+msgstr ""
+
+#: admin/settings_page.php:66
+msgid "Already have a user"
+msgstr ""
+
+#: admin/settings_page.php:67
+msgid "Login here"
+msgstr ""
+
+#: admin/settings_page.php:77
+msgid "Forgot Password"
+msgstr ""
+
+#: admin/settings_page.php:83 admin/settings_page.php:109
+msgid "Go to Webeyez"
+msgstr ""
+
+#: admin/settings_page.php:98
+msgid ""
+"By signing up you agree to our <a href=\"https://www.webeyez.com/terms-of-"
+"service\" target=\"_blank\">Terms of Service</a> and <a href=\"https://www."
+"webeyez.com/privacy-policy\" target=\"_blank\">Privacy Policy</a> agreements"
+msgstr ""
+
+#: admin/settings_page.php:103
+msgid "Webeyez is implemented correctly<br>on your website"
+msgstr ""
+
+#: admin/settings_page.php:107
+msgid "Logged-in user:"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#. Description of the plugin/theme
+#: webeyez.php:139 webeyez.php:140
+msgid "Webeyez"
+msgstr ""
+
+#: webeyez.php:164
+msgid "Enter Your first name."
+msgstr ""
+
+#: webeyez.php:165 webeyez.php:171 webeyez.php:177 webeyez.php:181
+#: webeyez.php:187 webeyez.php:191 webeyez.php:275 webeyez.php:279
+#: webeyez.php:285 webeyez.php:289
+msgid "Please check all fields."
+msgstr ""
+
+#: webeyez.php:170
+msgid "Enter Your last name."
+msgstr ""
+
+#: webeyez.php:176 webeyez.php:274
+msgid "Enter Your email."
+msgstr ""
+
+#: webeyez.php:180 webeyez.php:278
+msgid "Invalid email."
+msgstr ""
+
+#: webeyez.php:186 webeyez.php:284
+msgid "Enter password."
+msgstr ""
+
+#: webeyez.php:190 webeyez.php:288
+msgid "Password must be at least 6 characters."
+msgstr ""
+
+#: webeyez.php:232
+msgid "Register successfull!"
+msgstr ""
+
+#: webeyez.php:328
+msgid "Login successfull!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "CODJA"
+msgstr ""
+
+#: class-init.php:100
+msgid "Incorrect request page."
+msgstr ""
+
+#: class-init.php:112
+msgid "Webeyez server is unavailable."
+msgstr ""
+
+#: class-init.php:118
+msgid "Invalid client key."
+msgstr ""
